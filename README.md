@@ -1,7 +1,8 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/WHITEH0ST/AlphaNumify/total)
 ![GitHub Repo stars](https://img.shields.io/github/stars/WHITEH0ST/AlphaNumify?style=social)
 ![GitHub language count](https://img.shields.io/github/languages/count/WHITEH0ST/AlphaNumify) 
-![GitHub top language](https://img.shields.io/github/languages/top/WHITEH0ST/AlphaNumify?color=yellow) 
+![GitHub top language](https://img.shields.io/github/languages/top/WHITEH0ST/AlphaNumify?color=yellow)
+![Github label](https://img.shields.io/badge/WARNING-Virtual%20Environment-yellow)
 
 # AlphaNumify
 A simple number generator for business marketing. [USA ONLY]
@@ -30,9 +31,9 @@ For other use cases, Please run the command below for help.<br>
 `py gen.py -h`
 
 
-**NOTE**: ```diff
+**NOTE**: <br>
 - Please run in a virtual environment for better use cases and less errors and run from command line. Do not use the py.exe launcher (Double Click)
-```
+
 
 
 # The Team
