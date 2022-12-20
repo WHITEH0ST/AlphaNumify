@@ -1,0 +1,4 @@
+colorama==0.4.5
+Cython==0.29.32
+pyfiglet==0.8.post1
+tqdm==4.64.1
