@@ -30,6 +30,9 @@ For other use cases, Please run the command below for help.<br>
 `py gen.py -h`
 
 
+**NOTE**: ```diff
+- Please run in a virtual environment for better use cases and less errors and run from command line. Do not use the py.exe launcher (Double Click)
+```
 
 
 # The Team
