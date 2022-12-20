@@ -1,5 +1,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/WHITEH0ST/AlphaNumify/total)
 ![GitHub Repo stars](https://img.shields.io/github/stars/WHITEH0ST/AlphaNumify?style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/WHITEH0ST/AlphaNumify) 
 ![GitHub top language](https://img.shields.io/github/languages/top/WHITEH0ST/AlphaNumify?color=yellow) 
 
 # AlphaNumify
