@@ -32,6 +32,6 @@ For other use cases, Please run the command below for help.<br>
 
 
 # The Team
-A simple number generator tool by https://t.me/thehighprogrammer.
+A simple number generator tool by https://t.me/thehighprogrammer.<br>
 Copyright The High Programmer Network 2023
 
