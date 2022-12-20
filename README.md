@@ -3,7 +3,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/WHITEH0ST/AlphaNumify?color=yellow) 
 
 # AlphaNumify
-A simple generator for business marketing. [USA ONLY]
+A simple number generator for business marketing. [USA ONLY]
 
 
 
