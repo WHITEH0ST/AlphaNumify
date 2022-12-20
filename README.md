@@ -13,10 +13,10 @@ A simple number generator for business marketing. [USA ONLY]
 
 
 The default method for generating leads, is:<br>
-py gen.py -c NUMBER_OF_LEADS -a AREA_CODES<br>
+py gen.py -c NUMBER_OF_LEADS -a AREA_CODES -s carriers<br>
 
 **i.e.** 
-`py gen.py -c 10000 -a 418,912,480`
+`py gen.py -c 10000 -a 418,912,480 -s 1,2,3`
 
 
 But if you do not want carrier sort and some minor validation, As it doesnt support all area codes just yet
