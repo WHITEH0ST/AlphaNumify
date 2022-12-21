@@ -7,7 +7,7 @@ def formatter(file):
     new_file = open(filename, "a+")
     num_lst = [line.strip() for line in list_file]
     for line in num_lst:
-        if line.startswith('+1'):
+        if not line.startswith('+1'):
             new_file.write("+1" + line + "\n")
     new_file.close()
 
