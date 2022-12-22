@@ -5,7 +5,7 @@
 ![Github label](https://img.shields.io/badge/WARNING-Virtual%20Environment-yellow)
 
 # AlphaNumify
-A simple number generator for business marketing. [USA ONLY]
+A simple precise number generator for business marketing. [USA ONLY]
 
 
 
